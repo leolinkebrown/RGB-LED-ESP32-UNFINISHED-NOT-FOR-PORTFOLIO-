@@ -31,5 +31,5 @@ A simple program to blink an RGB LED using an ESP32
 
 - Download Arduino IDE
 - Wire ESP32 board as shown in 'Wiring Diagram'
-- Input code in 'RGB' under 'Main'
+- Input code in 'RGBLEDESP32.ino' under 'Main'
 - Enjoy!
