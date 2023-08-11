@@ -6,7 +6,7 @@ A simple program to blink an RGB LED using an ESP32
 
 ### Wiring Diagram
 
-
+https://github.com/leolinkebrown/RGB-LED-ESP32/blob/e52c598b0e1c295173aa66bf2984805f0b0cf712/PXL_20230811_022357861.jpg
 
 ### Demonstration
 
